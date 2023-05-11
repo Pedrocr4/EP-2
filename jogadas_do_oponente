@@ -194,4 +194,4 @@ while jogando:
             navios_afundados_jogador = afundados(frota_jogador, tabuleiro_jogador)
 
             if navios_afundados_jogador == 10:
-                print('Xi! O oponente derrubou toda a sua frota =(')
+                print('Xi! O oponente derrubou toda a sua frota = (')
